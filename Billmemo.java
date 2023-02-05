@@ -699,7 +699,7 @@ private static void deleteaccount()throws IOException
     private static void creditsandinstructions()throws IOException
     {
         System.out.println("                                             Credits                                                    ");
-        System.out.println("@Microsoftlabs");
+        System.out.println("@rootCircle");
         System.out.println("Discount refers to be devired from price exclusive of tax only.");
         System.out.println("Sgst and cgst is initilized to 6% only.");
         System.out.println("Service charge of $0.04 is provided.");
